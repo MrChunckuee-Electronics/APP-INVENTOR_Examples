@@ -8,7 +8,7 @@ Algunos ejemplos que realizado usando  la herramienta APP Inventor, si deseas sa
 
 ***
 **Listado de material disponible:**
-- APP_001: Encender/Apagar un LED via bluetooth
+- APP_001: Encender/Apagar un LED via bluetooth, con la Stellaris LauchPad
 - APP_002: 
 
 ***
